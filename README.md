@@ -1,2 +1,5 @@
 # Indonesia-Covid-Model
 Covid-19 Modelling by Department of Electrical and Information Engineering Universitas Gadjah Mada
+
+## Run on mybinder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yasirroni/Indonesia-Covid-Model/master?urlpath=%2Fvoila%2Frender%2FInteractive%2520Plot.ipynb)
