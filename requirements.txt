@@ -3,3 +3,4 @@ numpy
 bqplot
 pandas
 voila
+voila-hover
