@@ -1,0 +1,19 @@
+site_name: Indonesia Covid Model
+# site_url: TBD
+site_description: COVID-19 Modelling by DTETI UGM
+site_author: Department of Electrical and Information Engineering Universitas Gadjah Mada
+
+repo_url: https://github.com/yasirroni/Indonesia-Covid-Model
+edit_uri: ""
+
+theme:
+    name: mkdocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+
+nav:
+    - Home: index.md
+    - About:
+        - Contacts: about/contacs.md
+        - License: about/license.md
