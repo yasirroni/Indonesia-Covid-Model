@@ -1,6 +1,6 @@
-scipy
-numpy
-bqplot
-pandas
-voila
-voila-hover
+scipy==1.5.2
+numpy==1.19.2
+bqplot==0.12.16
+pandas==1.1.2
+voila==0.1.23
+voila-hover==0.1.0
