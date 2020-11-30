@@ -15,5 +15,5 @@ theme:
 nav:
     - Home: index.md
     - About:
-        - Contacts: about/contacs.md
+        - Contacts: about/contacts.md
         - License: about/license.md
