@@ -14,9 +14,9 @@ This repository is part of Covid-19 Modelling Project by [Department of Electric
 
 ## **Github**
 
-1. Fit: <https://github.com/yasirroni/Indonesia-Covid-Model>
+1. Fit: <https://github.com/BagaskaraPutra/Indonesia-COVID19-Model-Fitting-and-Simulation>
 
-2. Plot: <https://github.com/BagaskaraPutra/Indonesia-COVID19-Model-Fitting-and-Simulation>
+2. Plot: <https://github.com/yasirroni/Indonesia-Covid-Model>
 
 ## **Publication**
 
